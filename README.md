@@ -1,4 +1,3 @@
-
 **Como Adquirir Novas Habilidades de Programação: Um Guia Prático**
 
 A indústria da tecnologia está em constante evolução, demandando que os programadores estejam sempre atualizados e em busca de novas habilidades. Neste guia, vamos explorar estratégias práticas para ajudá-lo a adquirir novas habilidades de programação de forma eficaz e alinhada aos padrões do GitHub.
@@ -30,3 +29,5 @@ A tecnologia está em constante mudança, portanto, é essencial manter-se atual
 ### 7. Seja Persistente e Paciente
 
 Aprender programação pode ser desafiador e levar tempo. É importante ser persistente e paciente durante o processo de aprendizado. Esteja preparado para enfrentar obstáculos e fracassos ao longo do caminho, mas lembre-se de que cada desafio é uma oportunidade de aprendizado e crescimento.
+
+Ao seguir essas estratégias, você estará no caminho certo para adquirir novas habilidades de programação de forma eficaz e alinhada aos padrões do GitHub. Lembre-se de que o aprendizado é um processo contínuo e que o desenvolvimento de habilidades é uma jornada, não um destino final. Boa sorte e aproveite o processo de aprendizado!
