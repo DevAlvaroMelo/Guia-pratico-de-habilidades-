@@ -1,5 +1,3 @@
-# Guia-pratico-de-habilidades-
-como adiquirir novas habilidades em programação
 
 **Como Adquirir Novas Habilidades de Programação: Um Guia Prático**
 
